@@ -26,9 +26,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Maya-code-dev/Maya-code-dev/output/snake.svg" alt="Snake animation" />
-
-###
